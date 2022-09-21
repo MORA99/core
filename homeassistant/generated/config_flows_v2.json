@@ -1376,6 +1376,7 @@
       "name": "Z-Wave.Me"
     }
   },
+  "hardware": {},
   "helper": {
     "derivative": {
       "name": "Derivative",
