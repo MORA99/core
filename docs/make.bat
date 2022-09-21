@@ -1,6 +1,7 @@
 @ECHO OFF
 
 REM Command file for Sphinx documentation
+fantastisk
 
 if "%SPHINXBUILD%" == "" (
 	set SPHINXBUILD=sphinx-build
